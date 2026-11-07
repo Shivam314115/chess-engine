@@ -1,0 +1,29 @@
+# Build
+target/
+build/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+node_modules/
+dist/
+.env    
